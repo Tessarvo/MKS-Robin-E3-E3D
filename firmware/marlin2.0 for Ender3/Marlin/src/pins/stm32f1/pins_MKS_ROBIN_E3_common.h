@@ -48,7 +48,7 @@
 //
 // Servos
 //
-#define SERVO0_PIN                          PA3
+#define SERVO0_PIN                          PA2
 
 //
 // Limit Switches
